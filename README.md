@@ -3,7 +3,7 @@
 / -> Home
 /join -> Join
 /login -> Login
-/serach -> Search
+/search -> Search
 
 /users/:id -> See User
 /users/logout -> Log Out
